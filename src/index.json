@@ -1,0 +1,239 @@
+[
+    {
+        "code": "activity",
+        "description": "Aktivtät",
+        "path": "icons/activity.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "add",
+        "description": "Hinzufügen",
+        "path": "icons/add.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "additional",
+        "description": "Markierung für zusätzlichen Unterricht",
+        "path": "icons/additional.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "agenda",
+        "description": "Agenda-Ansicht",
+        "path": "icons/agenda.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "annoucnement",
+        "description": "Mitteilung",
+        "path": "icons/announcement.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "apprentice",
+        "description": "Auszubildende:r",
+        "path": "icons/apprentice.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "cancellation",
+        "description": "Markierung für Unterrichtsausfall",
+        "path": "icons/cancellation.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "course",
+        "description": "Kurs",
+        "path": "icons/course.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "custodian",
+        "description": "Sorgeberechtigte:r",
+        "path": "icons/custodian.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "delete",
+        "description": "Löschen",
+        "path": "icons/delete.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "edit",
+        "description": "Bearbeiten",
+        "path": "icons/edit.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "enbrea",
+        "description": "Enbrea-Icon",
+        "path": "icons/enbrea.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "exam",
+        "description": "Prüfung",
+        "path": "icons/exam.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "from-today",
+        "description": "Anzeige ab heute",
+        "path": "icons/from-today.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "hamburger-menu",
+        "description": "Hambuger-Menü",
+        "path": "icons/hamburger-menu.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "holidays",
+        "description": "Ferien",
+        "path": "icons/holidays.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "instructor",
+        "description": "Ausbilder:in",
+        "path": "icons/instructor.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "left-panel-close",
+        "description": "Linkes Panel schließen",
+        "path": "icons/left-panel-close.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "left-panel-open",
+        "description": "Linkes Panel öffnen",
+        "path": "icons/left-panel-open.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "one-day",
+        "description": "Anzeige für einen Tag",
+        "path": "icons/one-day.svg",
+        "version": "1.0.0"
+    },
+    {
+       "code": "room",
+       "alias": [
+            "location", "area"
+        ],
+        "description": "Raum",
+        "path": "icons/room.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "school",
+        "description": "Schule",
+        "path": "icons/school.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "school-term",
+        "description": "Zeitraum",
+        "path": "icons/school-term.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "school-year",
+        "description": "Schuljahr",
+        "path": "icons/school-year.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "staff",
+        "description": "Mitarbeiter:in",
+        "path": "icons/staff.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "student",
+        "description": "Schüler:in",
+        "path": "icons/student.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "student-group",
+        "description": "Schülergruppe (Klasse, Jahrgang)",
+        "path": "icons/student-group.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "substitution",
+        "description": "Vertretung",
+        "path": "icons/substitution.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "supervision",
+        "description": "Aufsicht",
+        "path": "icons/supervision.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "system-settings",
+        "description": "Systemeinstellungen",
+        "path": "icons/system-settings.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "teacher",
+        "description": "Lehrkraft",
+        "path": "icons/teacher.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "time-shift-from",
+        "description": "Verschoben von",
+        "path": "icons/time-shift-from.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "time-shift-to",
+        "description": "Verschoben nach",
+        "path": "icons/time-shift-to.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "timetable",
+        "description": "Stundenplan",
+        "path": "icons/timetable.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "today",
+        "description": "Heute",
+        "path": "icons/today.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "training-company",
+        "description": "Ausbildungsbetrieb",
+        "path": "icons/training-company.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "two-days",
+        "description": "Anzeige für zwei Tage",
+        "path": "icons/two-days.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "user",
+        "description": "Benutzer",
+        "path": "icons/user.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "user-settings",
+        "description": "Benutzereinstellungen",
+        "path": "icons/user-settings.svg",
+        "version": "1.0.0"
+    }
+]
