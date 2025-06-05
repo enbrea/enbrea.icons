@@ -129,6 +129,12 @@
         "version": "1.0.0"
     },
     {
+        "code": "search",
+        "description": "Suche",
+        "path": "icons/search.svg",
+        "version": "1.0.0"
+    },
+    {
         "code": "school",
         "description": "Schule",
         "path": "icons/school.svg",
@@ -210,6 +216,12 @@
         "code": "today",
         "description": "Heute",
         "path": "icons/today.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "token",
+        "description": "Token",
+        "path": "icons/token.svg",
         "version": "1.0.0"
     },
     {
