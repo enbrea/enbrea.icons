@@ -36,6 +36,18 @@
         "version": "1.0.0"
     },
     {
+        "code": "application",
+        "description": "Bewerbung",
+        "path": "icons/application.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "application-process",
+        "description": "Bewerberverfahren",
+        "path": "icons/application-process.svg",
+        "version": "1.0.0"
+    },
+    {
         "code": "apprentice",
         "description": "Auszubildende:r",
         "path": "icons/apprentice.svg",
