@@ -84,6 +84,12 @@
         "version": "1.0.0"
     },
     {
+        "code": "dashboard",
+        "description": "Dashboard oder Übersicht",
+        "path": "icons/dashboard.svg",
+        "version": "1.0.0"
+    },
+    {
         "code": "delete",
         "description": "Löschen",
         "path": "icons/delete.svg",
