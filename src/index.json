@@ -1,5 +1,11 @@
 [
     {
+        "code": "absence",
+        "description": "Abwesenheit",
+        "path": "icons/absence.svg",
+        "version": "1.0.0"
+    },
+    {
         "code": "activity",
         "description": "Aktivtät",
         "path": "icons/activity.svg",
@@ -45,6 +51,12 @@
         "code": "course",
         "description": "Kurs",
         "path": "icons/course.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "course-report",
+        "description": "Kurs- oder Klassenbuch",
+        "path": "icons/course-report.svg",
         "version": "1.0.0"
     },
     {
@@ -213,6 +225,12 @@
         "version": "1.0.0"
     },
     {
+        "code": "timeframe",
+        "description": "Zeitrahmen",
+        "path": "icons/timeframe.svg",
+        "version": "1.0.0"
+    },
+    {
         "code": "timetable",
         "description": "Stundenplan",
         "path": "icons/timetable.svg",
@@ -246,6 +264,18 @@
         "code": "user",
         "description": "Benutzer",
         "path": "icons/user.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "user-group",
+        "description": "Benutzergruppe",
+        "path": "icons/user-group.svg",
+        "version": "1.0.0"
+    },
+    {
+        "code": "user-profile",
+        "description": "Benutzerpofil",
+        "path": "icons/user-profile.svg",
         "version": "1.0.0"
     },
     {
