@@ -132,6 +132,12 @@
         "version": "1.0.0"
     },
     {
+        "code": "now",
+        "description": "Jetzt",
+        "path": "icons/now.svg",
+        "version": "1.0.0"
+    },
+    {
         "code": "one-day",
         "description": "Anzeige für einen Tag",
         "path": "icons/one-day.svg",
