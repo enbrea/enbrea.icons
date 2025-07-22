@@ -60,6 +60,12 @@
         "version": "1.0.0"
     },
     {
+        "code": "catalog",
+        "description": "Schlüsselverzeichnis",
+        "path": "icons/catalog.svg",
+        "version": "1.0.0"
+    },
+    {
         "code": "course",
         "description": "Kurs",
         "path": "icons/course.svg",
