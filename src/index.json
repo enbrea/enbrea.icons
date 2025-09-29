@@ -168,6 +168,12 @@
         "version": "1.0.0"
     },
     {
+        "code": "over-18",
+        "description": "Über 18",
+        "path": "icons/over-18.svg",
+        "version": "1.0.0"
+    },
+    {
        "code": "room",
        "alias": [
             "location", "area"
